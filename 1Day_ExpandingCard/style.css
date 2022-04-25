@@ -11,7 +11,7 @@ body{
 
 .container{
   display:flex;
-  width:85vw;
+  width:90vw;
 }
 
 .panel{
@@ -22,7 +22,7 @@ body{
   border-radius: 50px;
   color:#fff;
   cursor:pointer; /* 设置鼠标的形状为伸出食指的手*/
-  flex:0.5;
+  flex:1;
   margin:10px;
   position: relative;
   -webkit-transition: all 700ms ease-in; /* CSS3过渡的动画*/
@@ -38,7 +38,7 @@ body{
 }
 
 .panel.active{
-  flex:5;
+  flex:10;
 }
 
 .panel.active h3{
