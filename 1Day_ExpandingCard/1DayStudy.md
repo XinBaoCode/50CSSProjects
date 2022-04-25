@@ -3,7 +3,9 @@
 ### Flex
 我们发现在这个项目中，很多时候使用到了flex:1,flex:10的概念，所以有必要在这对flex技术进行解释。
 **flex后接一个数字，这个数字的值代表flex-grow的值**
+
 <img src="../image/1_Flex.png" />
+
 这里解释一下flex-grow,flex-shrink和flex-basis的含义
 |  名称 | 含义  |
 | ---- | ---- |
