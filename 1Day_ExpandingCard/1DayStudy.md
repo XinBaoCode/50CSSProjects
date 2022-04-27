@@ -6,6 +6,7 @@
 
 <img src="../image/1_Flex.png" />
 这里解释一下flex-grow,flex-shrink和flex-basis的含义
+
 |  名称 | 含义  |
 | ---- | ---- |
 | flex-grow |  flex-grow 定义项目的放大比例，默认为0，即如果存在剩余空间，也不放大 |

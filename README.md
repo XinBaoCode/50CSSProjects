@@ -4,3 +4,6 @@
 **效果图如下**
 <img src="/image/1_ExpandingCard.gif" width="800px"/>
 
+### 第二天项目 进度条
+**效果如图下**
+<img src="/image/2_ProgressSteps.png" width="800px"/>

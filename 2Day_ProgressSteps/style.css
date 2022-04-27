@@ -34,7 +34,7 @@ body{
 }
 
 .progress-container::before{
-  content:''; /* content的意思*/
+  content:''; 
   background-color:var(--line-border-empty);
   position: absolute;
   top:50%;
